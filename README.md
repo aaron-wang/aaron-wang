@@ -2,6 +2,11 @@
 
 - ☀️ Currently taking a break
 - 😀 More details to follow soon!
+
+
+![Aaron Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-wang&show_icons=true&theme=vue)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aaron-wang.visitor-badge)
 <!--
 **aaron-wang/aaron-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
