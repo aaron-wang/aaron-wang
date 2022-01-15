@@ -1,7 +1,7 @@
 ### Hi, I'm Aaron! 
 
-- ☀️ Currently taking a break
-- 😀 More details to follow soon!
+<!-- - ☀️ Currently taking a break -->
+<!-- - 😀 More details to follow soon! -->
 
 
 <!-- ![Aaron Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-wang&show_icons=true&theme=vue) -->
